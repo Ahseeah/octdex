@@ -14,7 +14,12 @@ body {
 
 header {
 	background-color: rgb(189, 142, 182);
-	margin: 2rem;
 	display: flex;
 	justify-content: space-between;
+}
+header img {
+	height: 2rem;
+}
+li {
+	list-style: none;
 }
